@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(203, 203, 223);
+}
+.Menu{
+    display: flex;
+    background-color: rgb(84, 148, 221);
+    height: 45px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 42px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    margin-left: 276px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-right: 0px;
+}
+img{
+    height: 45px;
+    width: 131px;
+    margin-left: -260px;
+    margin-top: -20px;
+}
+.canto{
+    width: 300px;
+    height: 800px;
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-left: -884px;
+    margin-right: 100px;
+    border-radius:8px;
+}
