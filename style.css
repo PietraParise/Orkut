@@ -1,10 +1,12 @@
 body{
-    background-color: rgb(203, 203, 223);
+    background-color: rgb(211, 211, 214);
+    margin: 0px;
 }
 .Menu{
     display: flex;
     background-color: rgb(84, 148, 221);
     height: 45px;
+    
 }
 ul{
     list-style: none;
@@ -20,16 +22,42 @@ ul{
 }
 img{
     height: 45px;
-    width: 131px;
+    width: 124px;
     margin-left: -260px;
     margin-top: -20px;
 }
 .canto{
     width: 300px;
     height: 800px;
-    background-color: aliceblue;
-    margin-top: 50px;
-    margin-left: -884px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 12px;
+    margin-left: 5px;
     margin-right: 100px;
-    border-radius:8px;
+    border-radius:5px;
+    display: flex;
+    flex-direction: column;
+}
+.img2{
+    margin-left: 79px;
+    height: 100px;
+    width: 125px;
+    margin-top: 50px;
+}
+.pesquisa{
+    margin-left: 25px;
+    margin-top: -8px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    border-right-width: 16px;
+    border-right-style: solid;
+    border-left-width: 8px;
+    border-left-style: solid;
+    border-color: rgb(41, 41, 82);
+    height: 18px ;
+    
+    
 }
