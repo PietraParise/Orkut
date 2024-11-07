@@ -33,11 +33,12 @@ img{
 }
 .canto{
     width: 300px;
-    height: 1000px;
+    height: 845px;
     background-color: rgb(255, 255, 255);
     margin-top: 12px;
     margin-left: 5px;
     margin-right: 100px;
+    margin-bottom: 8px;
     border-radius:5px;
     display: flex;
     flex-direction: column;
@@ -63,14 +64,11 @@ img{
     border-left-style: solid;
     border-color: rgb(41, 41, 82);
     height: 18px ;
-    
 }
 .pe{
     margin-left: -64px;
-    margin-top: -3px;
-    
+    margin-top: -7px;
 }
-
 h3{
     color:rgb(84, 148, 221) ;
     margin: 3px;
@@ -93,16 +91,95 @@ p{
 .itens{
     list-style: none;
     flex-direction:column;
-    margin-left:-21px;
+    margin-left:-38px;
     color: rgb(33, 103, 182);
     font-size: 15px;
     margin-top: 43px;
 }
-li{
+.l{
     margin-bottom: -23px;
-    border-color: rgb(94, 94, 94);
+    border-color: rgb(109, 109, 109);
     border-top-width: 1px;
     border-bottom-width: 1px;
     border-top-style: solid;
     border-bottom-style: solid;
+    height: 25px;
+}
+.principal{
+   background-color: white;
+   width: 1120px;
+   height: 480px;
+   border-bottom-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 78px ;
+   margin-top: 12px;
+}
+.i{
+  color: rgb(33, 103, 182);
+}
+.divs{
+    display: flex;
+}
+.tit{
+    display: flex;
+    margin-bottom: 15px;
+}
+.frase{
+    display: flex;
+}
+
+.amigos{
+   width: 370px;
+   height: 190px;
+   background-color: white;
+   border-radius: 5px;
+   margin: 12px;
+}
+.ami{
+    display: flex;
+    margin:10px ;
+}
+.a{
+    color: black;
+    font-size: 20px;
+}
+.qtd{
+    margin-left: 10px;
+}
+.num{
+    color:rgb(33, 103, 182) ;
+    margin-bottom: 16px;
+}
+.bot{
+    border-radius: 5px;
+    color:rgb(33, 103, 182) ;
+    width: 124px;
+    margin-top: 80px;
+    margin-left: 50px;
+    background-color: transparent;
+    border-color: rgb(192, 191, 191);
+}
+
+.bott{
+    border-radius: 5px;
+    color:rgb(33, 103, 182) ;
+    width: 60px;
+    margin-left: 615px;
+    background-color: transparent;
+    border-color: rgb(192, 191, 191);
+}
+.comunidades{
+    width: 370px;
+   height: 190px;
+   background-color: white;
+   border-radius: 5px;
+   margin: 12px;
+}
+.grupos{
+    display: flex;
+}
+.c{
+   display: flex;
+   background-color: rgb(192, 189, 189);
 }
