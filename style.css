@@ -108,7 +108,7 @@ p{
 .principal{
    background-color: white;
    width: 1120px;
-   height: 480px;
+   height: 520px;
    border-bottom-right-radius: 10px;
    border-bottom-left-radius: 10px;
    border-top-left-radius: 10px;
@@ -243,35 +243,48 @@ background-color: transparent;
     display: flex;
     flex-direction:column;
     margin-left: -15px;
-    font-size: 15px;
+    font-size: 17px;
 }
 .niver{
     background-color: rgba(33, 103, 182, 0.479);
-    height: 45px;
-    margin-top: 43px;
+    height: 50px;
+    margin-top: 12px;
 }
 .qse{
     background-color: rgba(33, 103, 182, 0.479);
-    height: 45px;
+    height: 50px;
     margin-top: -43px;
 }
 .relac{
     background-color: rgba(209, 233, 233, 0.521);
-    height: 45px;
+    height: 50px;
     margin-top: -43px;
 }
 .br{
     background-color: rgba(210, 233, 233, 0.521);
-    height: 45px;
+    height: 50px;
     margin-top: -43px;
 }
 .prin{
-    margin-top: 104px;
+    margin-top: 31px;
     margin-right: 15px;
+    border-top-style: solid;
+    border-color: black;
+    border-block-width: thin;
 }
 .social{
-    background-color: rgba(12, 12, 117, 0.637);
+    background-color: rgba(38,38,141);
     width: 60px;
     border-radius: 5px;
+    margin-left: 10px;
+    color: white;
+}
+.car{
+    color: black;
+    width: 10px;
+    font-size: small;
+    margin-bottom: 0%;
+    margin-left: 10px;
+    gap: 70px;
 }
 
