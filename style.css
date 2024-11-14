@@ -108,7 +108,7 @@ p{
 .principal{
    background-color: white;
    width: 1120px;
-   height: 520px;
+   height: 496px;
    border-bottom-right-radius: 10px;
    border-bottom-left-radius: 10px;
    border-top-left-radius: 10px;
@@ -231,7 +231,7 @@ cursor: pointer;
 background-color: transparent;
 }
 .vt{
-    margin-left:-31px;
+    margin-left:-9px;
     margin-top: 10px;
     color:rgb(33, 103, 182) ;
     text-decoration: underline;
@@ -244,11 +244,12 @@ background-color: transparent;
     flex-direction:column;
     margin-left: -15px;
     font-size: 17px;
+    
 }
 .niver{
     background-color: rgba(33, 103, 182, 0.479);
     height: 50px;
-    margin-top: 12px;
+    margin-top:-20px;
 }
 .qse{
     background-color: rgba(33, 103, 182, 0.479);
@@ -276,8 +277,10 @@ background-color: transparent;
     background-color: rgba(38,38,141);
     width: 60px;
     border-radius: 5px;
-    margin-left: 10px;
+    margin-left: 21px;
     color: white;
+    margin-bottom: -31px;
+   
 }
 .car{
     color: black;
